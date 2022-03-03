@@ -757,8 +757,8 @@ textarea,
 }
 
 .childWrapper-1j_1ub {
-  background-color: rgba(0, 0, 0, 0.3);
-  color: rgba(255, 255, 255, 0);
+  background-color: rgba(0, 0, 0, 0);
+  color: rgba(255, 255, 255, 0.39);
   transition: all 0.3s ease-in-out;
 }
 
